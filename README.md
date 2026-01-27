@@ -1,6 +1,6 @@
-# 🔐 KnoxKey – Smart Door Lock with Knock & Keypad Authentication
+#  KnoxKey – Smart Door Lock with Knock & Keypad Authentication
 
-## 📌 Project Overview
+##  Project Overview
 
 **KnoxKey** is a **product-oriented smart door lock system** developed as an extension of the *Secret Door Lock with Knock Pattern Recognition* project during **Complementary Semester 2**. The system introduces a **dual-layer authentication mechanism** by combining **knock-pattern recognition** with **keypad-based password entry**, significantly enhancing security and usability for real-world applications.
 
@@ -8,7 +8,7 @@ Unlike the earlier prototype-focused implementation, this phase emphasized **com
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Design a dual-authentication smart door lock system
 * Integrate knock-based and keypad-based access control
@@ -18,7 +18,7 @@ Unlike the earlier prototype-focused implementation, this phase emphasized **com
 
 ---
 
-## ⚙️ System Working Principle
+##  System Working Principle
 
 1. The system remains in a locked state by default
 2. User authentication can be performed using:
@@ -39,7 +39,7 @@ Unlike the earlier prototype-focused implementation, this phase emphasized **com
 
 ---
 
-## 🔧 Key Features
+##  Key Features
 
 * Dual authentication: knock pattern + keypad password
 * User-configurable reset mode for knock pattern and password
@@ -52,7 +52,7 @@ Unlike the earlier prototype-focused implementation, this phase emphasized **com
 
 ---
 
-## 🧠 Product Design & Development Approach
+##  Product Design & Development Approach
 
 1. **System Architecture Design**
 
@@ -81,9 +81,9 @@ Unlike the earlier prototype-focused implementation, this phase emphasized **com
 
 ---
 
-## 🛠️ Technologies, Tools & Components
+##  Technologies, Tools & Components
 
-### 🔧 Hardware Components
+###  Hardware Components
 
 | Category         | Description                         |
 | ---------------- | ----------------------------------- |
@@ -92,21 +92,21 @@ Unlike the earlier prototype-focused implementation, this phase emphasized **com
 | Display          | 16×2 LCD (I2C interface)            |
 | Output Devices   | Relay / Solenoid lock, LEDs         |
 
-### 💻 Software & Firmware
+###  Software & Firmware
 
 | Category          | Description                  |
 | ----------------- | ---------------------------- |
 | Programming       | Embedded C                   |
 | Development Style | Bare-metal embedded firmware |
 
-### 🧪 Design & Simulation Tools
+###  Design & Simulation Tools
 
 | Tool    | Purpose                           |
 | ------- | --------------------------------- |
 | EasyEDA | Schematic and PCB design          |
 | Proteus | Circuit simulation and validation |
 
-### 🔌 Interfaces
+###  Interfaces
 
 | Interface | Purpose                                     |
 | --------- | ------------------------------------------- |
@@ -115,7 +115,7 @@ Unlike the earlier prototype-focused implementation, this phase emphasized **com
 
 ---
 
-## 🎓 Academic Context
+##  Academic Context
 
 | Item         | Details                                           |
 | ------------ | ------------------------------------------------- |
@@ -125,7 +125,7 @@ Unlike the earlier prototype-focused implementation, this phase emphasized **com
 
 ---
 
-## 🚀 Learning Outcomes
+##  Learning Outcomes
 
 * End-to-end embedded product development experience
 * Practical knowledge of PCB design and hardware integration
@@ -135,7 +135,7 @@ Unlike the earlier prototype-focused implementation, this phase emphasized **com
 
 ---
 
-## 📂 Repository Structure (Suggested)
+##  Repository Structure (Suggested)
 
 ```
 knoxkey-smart-door-lock/
@@ -147,22 +147,22 @@ knoxkey-smart-door-lock/
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 KnoxKey represents a transition from **academic prototyping to product-level embedded system design**. By integrating dual authentication mechanisms with custom PCB development, the project demonstrates practical readiness for real-world smart lock and access control applications.
 
 ---
 
-## 👤 Author
+##  Author
 
-**Shadhurshan Navaretnam**
+**Shajugan Kulashankar**
 Electrical & Electronics Engineering Undergraduate
 University of Peradeniya, Sri Lanka
 
 ---
 
 ## Project mates
-**Shajugan Kulashankar**
+**Shadhurshan Navaratnam**
 Electrical & Electronics Engineering Undergraduate
 University of Peradeniya, Sri Lanka
 
@@ -172,7 +172,7 @@ University of Peradeniya, Sri Lanka
 
 ---
 
-## 🎓 Supervisors
+##  Supervisors
 
 **Dr. Isuru Dasanayake**
 Senior Lecturer, Department of Electrical & Electronic Engineering
@@ -194,7 +194,7 @@ University of Peradeniya, Sri Lanka
 
 ---
 
-## 📜 License
+##  License
 
 This project is developed **strictly for academic and educational purposes** at the **University of Peradeniya, Sri Lanka**.
 Unauthorized commercial use or reproduction without proper acknowledgment is not permitted.
@@ -202,6 +202,6 @@ Unauthorized commercial use or reproduction without proper acknowledgment is not
 ---
 
 
-⭐ *If you find this project useful, feel free to star the repository and explore further enhancements!*
+ *If you find this project useful, feel free to star the repository and explore further enhancements!*
 
 
