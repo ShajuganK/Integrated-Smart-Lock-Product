@@ -62,7 +62,7 @@ Unlike the earlier prototype-focused implementation, this phase emphasized **com
 2. **Schematic & PCB Design**
 
    * Developed schematics using EasyEDA
-   * Designed compact PCB optimized for reliability
+   * Designed a compact PCB optimized for reliability
 
 3. **Firmware Development**
 
@@ -201,7 +201,5 @@ Unauthorized commercial use or reproduction without proper acknowledgment is not
 
 ---
 
-
- *If you find this project useful, feel free to star the repository and explore further enhancements!*
 
 
