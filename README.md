@@ -135,18 +135,6 @@ Unlike the earlier prototype-focused implementation, this phase emphasized **com
 
 ---
 
-##  Repository Structure (Suggested)
-
-```
-knoxkey-smart-door-lock/
-│── docs/
-│── media/
-│── simulation/
-│── README.md
-```
-
----
-
 ##  Conclusion
 
 KnoxKey represents a transition from **academic prototyping to product-level embedded system design**. By integrating dual authentication mechanisms with custom PCB development, the project demonstrates practical readiness for real-world smart lock and access control applications.
